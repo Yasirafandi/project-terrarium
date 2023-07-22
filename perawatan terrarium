@@ -5,9 +5,10 @@ Perawatan terrarium
   - pembersihan organisme mati
 - pengecekan ruang hidup
   - cek temperatur
-    ^menggunakan termometer analog
+    ^menggunakan termometer digital
+    ^menggunakan satuan celcius
   - cek kelembaban
-    ^menggunakan humidometer analog
+    ^menggunakan humidometer digital
   - cek intensitas cahaya
 - pemberian pakan untuk organisme/hewan
 - pemberian nutrian atau pupuk secara berkala
