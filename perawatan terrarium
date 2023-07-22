@@ -6,6 +6,7 @@ Perawatan terrarium
 - pengecekan ruang hidup
   - cek temperatur
     ^menggunakan termometer digital
+    ^menggunakan satuan celcius
   - cek kelembaban
     ^menggunakan humidometer digital
   - cek intensitas cahaya
